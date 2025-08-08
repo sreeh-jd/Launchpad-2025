@@ -9,9 +9,8 @@ I’m a fast learner, endlessly curious, and always looking for ways to grow—e
 
 Work Experience
 
-Python Programming 
-Basics of Python – Internship
-Completed an internship focused on the fundamentals of Python programming. Gained hands-on experience with core concepts such as data types, control structures, functions, and basic problem-solving using Python. This internship laid a strong foundation for further learning in AI and software development
+Python Programming Internship 
+Basics of Python - Completed an internship focused on the fundamentals of Python programming. Gained hands-on experience with core concepts such as data types, control structures, functions, and basic problem-solving using Python. This internship laid a strong foundation for further learning in AI and software development
 
 
 ------------------------------------------------------
